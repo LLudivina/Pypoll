@@ -14,7 +14,7 @@ Figure1
 ![figure1](https://user-images.githubusercontent.com/115508896/205481218-a6039147-1800-4b59-98f3-611ca757a1b7.png)
 
 
-Figure 1 shows the many lists and dictionaries that had to be tracked throughout the rest of the code.  In the end, both the Python code and text files were then created to use this data.  The output was then pushed to this repository using Git Bash.
+As seen in Figure 1 the many lists and dictionaries that had to be tracked throughout the rest of the code.  In the end, both the Python code and text files were then created to use this data.  The output was then pushed to this repository using Git Bash.
 
 ### *Election Results Printed to the Command Line*
 Based on the data, and as seen in Figure 2, there was a total of 369,712 votes casted in this congressional election.
