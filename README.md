@@ -23,7 +23,7 @@ Figure 2
 
 ![election_results_terminal ](https://user-images.githubusercontent.com/115508896/205478230-1ccc56fb-ee31-4dd2-ade1-d04df44ba4e4.png)
 
-Figure 2 is a screen shot of the code's output printed on the terminal and it shows the breakdown of the number of votes and the percentage of total votes for each county in the precinct.  This precinct had three counties known as Jefferson, Denver, and Arapahoe.  As an example, Jefferson County had 38,855 votes which is 10.5% of the total votes.  Furthermore, with 306,055 votes, Denver was the county with the largest number of votes.   
+Figure 2 is a screen shot of the code's output printed on the terminal and it shows the breakdown of the number of votes and the percentage of total votes for each county in the precinct.  This precinct had three counties known as Jefferson, Denver, and Arapahoe.  As an example, Jefferson County had 38,855 votes which is 10.5% of the total votes.  Furthermore, Denver was the county with the largest number of votes with 306,055 votes.   
 
 ### *Election Results Saved to a Text File*
 The Python script also created a new text file and Figure 3 shows the screenshot of such text file.
