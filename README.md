@@ -1,7 +1,7 @@
 # Pypoll  
 
 ## Overview of Election Audit 
-For this week's Python challenge, we were instructed to generate a vote count report for a U.S congressional precinct in Colorado.  As part of the election audit, the report considers all the votes casted through the three primary voting methods: mail-in ballots, punch cards, and direct recording electronic counting machines.  The report is usually generated in Excel, but we would like to know if there's a way to automate the process using Python.  To do this, phyton code was written and executed to confirm the code was working.  After the code generated using Phyton was submitted, additional data was requested to finalize the audit.  This written report provides a brief overview of the process.
+For this week's Python challenge, we were instructed to generate a vote count report for a U.S congressional precinct in Colorado.  As part of the election audit, the report considers all the votes casted by the three primary voting methods: mail-in ballots, punch cards, and direct recording electronic counting machines.  The report is usually generated in Excel, but we would like to know if there's a way to automate the process using Python.  To do this, phyton code was written and executed to confirm the code was working.  After the code generated using Phyton was submitted, additional data was requested to finalize the audit.  This written report provides a brief overview of the process.
  
 ### *Purpose* 
 The purpose of this project was to generate a vote count report in Python for the election audit.
