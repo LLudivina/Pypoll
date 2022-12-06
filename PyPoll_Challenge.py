@@ -6,6 +6,7 @@ import csv
 import os
 
 # Add a variable to load a file from a path.
+
 file_to_load = os.path.join("Election_Analysis","Resources", "election_results.csv")
 
 # Add a variable to save the file to a path.
@@ -133,6 +134,7 @@ with open(file_to_load) as election_data:
         #1. iterate through the candidate list
         for candidate_name in candidate_votes:
             #2 Retrieve vote count of a candidate
+
             votes =  candidate_votes.get(candidate_name)
             
             #3.Calculate the percentage of votes
